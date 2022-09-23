@@ -1,0 +1,29 @@
+ssh-keygen -t rsa -b 4096 -C "reinaldojjs@gmail.com"
+ssh-agent -s
+ssh-add ~/.ssh/id_rsa
+clip < ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+
+Digite
+yes
+e aperte enter
+
+Clonando um repositório do git
+
+git clone
+
+Enviando o repositório ssh
+quando fizermos alterações no repositório local, para depois enviar para o github
+temos que seguir os seguintes passos.
+Entrar na pasta do arquivo que foi alterado
+reinaldo@net:~/workspace$ cd aula/
+Verificar o status dos arquivos
+reinaldo@net:~/workspace/aula$ git status
+adicionar os arquivos
+# git add . ou git add -a
+# git status para ver se tudo ocorreu bem
+agora vamos comitar
+# git commit -m "comentários das alterações"
+enviando o arquivo alterado
+# git push origin master (origin depende da branch que o repositório foi criado que
+pode se (master ou main)
