@@ -1,0 +1,39 @@
+Desenvolvimento web é a área da tecnologia voltada à construção de sites, aplicativos, softwares, bancos de dados e quaisquer outras ferramentas que, de certa forma, constroem a internet como a conhecemos hoje.
+
+Os profissionais destas áreas são os programadores, ou desenvolvedores web: pessoas capacitadas para compreender, manusear e se utilizar de linguagens de programação para construir sistemas complexos voltados ao serviço do usuário.
+
+Dentro da carreira de desenvolvedor web existem diversas especialidades, como por exemplo front e back-end, sobre as quais falaremos adiante; infraestrutura de sistemas; especialistas em banco de dados, entre outros.
+Um desenvolvedor full stack é um desenvolvedor de software que tem a habilidade e experiência necessárias para desenvolver uma aplicação do começo ao fim, do banco de dados à interface do usuário.
+
+Além de desenvolver o front-end e o back-end de uma aplicação, um dev full stack também pode ser responsável pelo deploy da aplicação. Um profissional de TI completo.
+
+TAGS
+DESENVOLVIMENTO WEB 
+SISTEMAS WEB
+SQL SERVER 
+JQUERY 
+HTML5 
+UTILIZANDO 
+MYSQL 
+NET 
+ASP 
+DESENVOLVIMENTO E MANUTENÇÃO 
+JAVASCRIPT 
+DESENVOLVIMENTO DE SISTEMAS 
+DESENVOLVIMENTO DE SITES 
+BANCO DE DADOS 
+HTML 
+CSS 
+PHP
+
+Salários de Desenvolvedor Web
+
+Experiente, acima de
+$ 3.400,00
+Valor médio
+$ 2.200,00
+Começando, abaixo de
+$ 1.500,00
+
+
+
