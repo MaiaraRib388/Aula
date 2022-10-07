@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    height: 400px;
+    width: 500px;
+}
+
+.div_igual {
+    border: 1px solid black;
+    height: 80px;
+    width: 100px;
+    text-align: center;
+    margin: 5px;
+}
+
+.minha_div_1 {
+    background-color: green;
+}
+
+.minha_div_2 {
+    background-color: yellow;
+}
+
+.minha_div_3 {
+    background-color: red;
+}
+
+.minha_div_4 {
+    background-color: blue;
+}
