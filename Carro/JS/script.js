@@ -62,7 +62,7 @@ function myFunction() {
     try {
         if (x == "") throw 'Valor inválido! Digite um número!!';
         if (x % 2 == 0) throw 'É Par!!';
-        if (x % 2 == 1) throw 'É Ímpar!!'
+        if (x % 2 == 1) throw 'É Ímpar!!';
         if (isNaN(x)) throw 'Não é um Número! Digite um Número!!';
     }
     catch (err) {
