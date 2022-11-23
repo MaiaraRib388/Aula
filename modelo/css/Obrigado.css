@@ -1,0 +1,51 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:400,500';
+
+*{
+	font-family: 'Roboto', sans-serif;
+}
+
+#textoAgradece{
+    width: 500px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.primeiro{
+    font-size: 90px;
+}
+
+.segundo{
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+.terceiro{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.textos{
+    color: #fff;
+}
+
+p a{
+    color: rgb(54, 5, 43);
+    text-decoration: dashed;
+}
+
+.emoji{
+    font-size: 200px;
+}
+
+.thank{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: 300px;
+    margin-top: 0px;
+    margin-left: 25%;
+    background-color:none;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.473) 1px 1px 1000px;
+}

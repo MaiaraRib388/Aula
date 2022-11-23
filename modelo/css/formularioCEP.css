@@ -1,0 +1,99 @@
+/*CORPO DO DOCUMENTO*/
+.formulario{
+	max-width: 500px;
+	padding: 10px 20px;
+	background: none;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.473) 1px 1px 1000px;
+	margin: 10px auto;
+}
+.formulario fieldset{
+	border: none;
+}
+.formulario legend {
+	font-size: 1.4em;
+	margin-bottom: 10px;
+}
+.formulario label {
+	display: block;
+	margin-bottom: 8px;
+}
+.formulario input[type="text"],
+.formulario input[type="email"],
+.formulario input[type="tel"],
+.formulario textarea,
+.formulario select {
+	font-family: 'Roboto', sans-serif;
+	background: rgba(255,255,255,.1);
+	border: none;
+	border-radius: 4px;
+	font-size: 15px;
+	margin: 0;
+	outline: 0;
+	padding: 10px;
+	width: 100%;
+	box-sizing: border-box; 
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box; 
+	background-color: #e8eeef;
+	color:#8a97a0;
+	-webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+	box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+	margin-bottom: 30px;
+}
+.formulario input[type="text"]:focus,
+.formulario input[type="tel"]:focus,
+.formulario input[type="email"]:focus,
+.formulario textarea:focus,
+.formulario select:focus{
+	background: #d2d9dd;
+}
+
+.formulario .number {
+	background: #1abc9c;
+	color: #fff;
+	height: 30px;
+	width: 30px;
+	display: inline-block;
+	font-size: 0.8em;
+	margin-right: 4px;
+	line-height: 30px;
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+	border-radius: 15px 15px 15px 0px;
+}
+#rua{
+	width: 300px;
+}
+#numero{
+	width: 100px;
+	margin-left: 30px;
+}
+.ruaNumero{
+	display: flex;
+	justify-content:space-between;
+	width: 100%;
+}
+#botao {
+	position: relative;
+	display: block;
+	padding: 19px 39px 18px 39px;
+	width: 100%;
+	color: #FFF;
+	margin: 0 auto;
+	background: #1abc9c;
+	font-size: 18px;
+	text-align: center;
+	font-style: normal;
+	text-decoration: dashed;
+	border: 1px solid #16a085;
+	border-width: 1px 1px 3px;
+	margin-bottom: 10px;
+}
+#botao:hover {
+	background: #109177;
+	transition: 0.5s;
+}
+
+
